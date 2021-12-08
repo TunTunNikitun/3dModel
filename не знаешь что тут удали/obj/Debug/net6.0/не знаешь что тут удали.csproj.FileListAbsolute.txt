@@ -1,0 +1,29 @@
+C:\Users\Alina\source\repos\не знаешь что тут удали\не знаешь что тут удали\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Alina\source\repos\не знаешь что тут удали\не знаешь что тут удали\bin\Debug\net6.0\appsettings.json
+C:\Users\Alina\source\repos\не знаешь что тут удали\не знаешь что тут удали\bin\Debug\net6.0\не знаешь что тут удали.staticwebassets.runtime.json
+C:\Users\Alina\source\repos\не знаешь что тут удали\не знаешь что тут удали\bin\Debug\net6.0\не знаешь что тут удали.exe
+C:\Users\Alina\source\repos\не знаешь что тут удали\не знаешь что тут удали\bin\Debug\net6.0\не знаешь что тут удали.deps.json
+C:\Users\Alina\source\repos\не знаешь что тут удали\не знаешь что тут удали\bin\Debug\net6.0\не знаешь что тут удали.runtimeconfig.json
+C:\Users\Alina\source\repos\не знаешь что тут удали\не знаешь что тут удали\bin\Debug\net6.0\не знаешь что тут удали.dll
+C:\Users\Alina\source\repos\не знаешь что тут удали\не знаешь что тут удали\bin\Debug\net6.0\ref\не знаешь что тут удали.dll
+C:\Users\Alina\source\repos\не знаешь что тут удали\не знаешь что тут удали\bin\Debug\net6.0\не знаешь что тут удали.pdb
+C:\Users\Alina\source\repos\не знаешь что тут удали\не знаешь что тут удали\obj\Debug\net6.0\не знаешь что тут удали.csproj.AssemblyReference.cache
+C:\Users\Alina\source\repos\не знаешь что тут удали\не знаешь что тут удали\obj\Debug\net6.0\не знаешь что тут удали.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alina\source\repos\не знаешь что тут удали\не знаешь что тут удали\obj\Debug\net6.0\не знаешь что тут удали.AssemblyInfoInputs.cache
+C:\Users\Alina\source\repos\не знаешь что тут удали\не знаешь что тут удали\obj\Debug\net6.0\не знаешь что тут удали.AssemblyInfo.cs
+C:\Users\Alina\source\repos\не знаешь что тут удали\не знаешь что тут удали\obj\Debug\net6.0\не знаешь что тут удали.csproj.CoreCompileInputs.cache
+C:\Users\Alina\source\repos\не знаешь что тут удали\не знаешь что тут удали\obj\Debug\net6.0\не знаешь что тут удали.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Alina\source\repos\не знаешь что тут удали\не знаешь что тут удали\obj\Debug\net6.0\не знаешь что тут удали.RazorAssemblyInfo.cache
+C:\Users\Alina\source\repos\не знаешь что тут удали\не знаешь что тут удали\obj\Debug\net6.0\не знаешь что тут удали.RazorAssemblyInfo.cs
+C:\Users\Alina\source\repos\не знаешь что тут удали\не знаешь что тут удали\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Alina\source\repos\не знаешь что тут удали\не знаешь что тут удали\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Alina\source\repos\не знаешь что тут удали\не знаешь что тут удали\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Alina\source\repos\не знаешь что тут удали\не знаешь что тут удали\obj\Debug\net6.0\scopedcss\bundle\не знаешь что тут удали.styles.css
+C:\Users\Alina\source\repos\не знаешь что тут удали\не знаешь что тут удали\obj\Debug\net6.0\scopedcss\projectbundle\не знаешь что тут удали.bundle.scp.css
+C:\Users\Alina\source\repos\не знаешь что тут удали\не знаешь что тут удали\obj\Debug\net6.0\не знаешь что тут удали.dll
+C:\Users\Alina\source\repos\не знаешь что тут удали\не знаешь что тут удали\obj\Debug\net6.0\ref\не знаешь что тут удали.dll
+C:\Users\Alina\source\repos\не знаешь что тут удали\не знаешь что тут удали\obj\Debug\net6.0\не знаешь что тут удали.pdb
+C:\Users\Alina\source\repos\не знаешь что тут удали\не знаешь что тут удали\obj\Debug\net6.0\не знаешь что тут удали.genruntimeconfig.cache
+C:\Users\Alina\source\repos\не знаешь что тут удали\не знаешь что тут удали\bin\Debug\net6.0\libman.json
+C:\Users\Alina\source\repos\не знаешь что тут удали\не знаешь что тут удали\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Alina\source\repos\не знаешь что тут удали\не знаешь что тут удали\obj\Debug\net6.0\не знаешь что тут удали.csproj.CopyComplete
